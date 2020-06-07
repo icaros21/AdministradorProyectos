@@ -6,7 +6,7 @@ import NuevaCuenta from './components/auth/nuevaCuenta';
 import Proyectos from './components/proyectos/proyectos';
 import ProyectosState from './context/proyectos/proyectosState';
 import TareasState from './context/tareas/tareasSate';
-// esto es el app
+
 function App() {
   return (
     <ProyectosState>
